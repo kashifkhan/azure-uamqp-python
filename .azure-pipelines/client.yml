@@ -495,6 +495,7 @@ extends:
                       - 'uamqp-manylinux2014_x86_64-3.9-x64-whl'
                       - 'uamqp-manylinux2014_x86_64-3.10-x64-whl'
                       - 'uamqp-manylinux2014_x86_64-3.11-x64-whl'
+                      - 'uamqp-manylinux2014_x86_64-3.12-x64-whl'
                       - 'uamqp-manylinux2014_x86_64-3.13-x64-whl'
                       - 'uamqp-winx64-3.8-whl'
                       - 'uamqp-winx64-3.9-whl'
